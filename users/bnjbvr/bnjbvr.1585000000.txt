@@ -1,1 +1,2 @@
 1585172798 #botzilla-tests:delire.party making my first steps with confession on botzilla
+1585172985 #botzilla-tests:delire.party having a hard time testing confession
